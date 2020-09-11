@@ -1,5 +1,5 @@
-def greeting(user)
-  puts "Hello #{user}, it's nice to meet you."
+def greeting(name)
+  puts "Hello #{name}, it's nice to meet you."
 
 name = gets.chomp
 end
